@@ -1,6 +1,8 @@
 About kiwisolver
 ================
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://github.com/nucleic/kiwi
 
 Package license: BSD 3-Clause
@@ -17,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/kiwisolver-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/kiwisolver-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/kiwisolver-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/kiwisolver-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/kiwisolver-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/kiwisolver-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c342c7a302eb707003cf01c/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/kiwisolver-feedstock)
 
 Current release info
 ====================
@@ -104,3 +107,15 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@MatthieuDartiailh](https://github.com/MatthieuDartiailh/)
+* [@blink1073](https://github.com/blink1073/)
+* [@ericdill](https://github.com/ericdill/)
+* [@licode](https://github.com/licode/)
+* [@ocefpaf](https://github.com/ocefpaf/)
+* [@sccolbert](https://github.com/sccolbert/)
+* [@tacaswell](https://github.com/tacaswell/)
+
